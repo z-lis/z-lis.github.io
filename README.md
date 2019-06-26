@@ -6,4 +6,4 @@
 
 * IDEF0-диаграмма в развернутом виде:
 
-![none](https://z-lis.github.io/модель.png)
+![none](https://github.com/z-lis/z-lis.github.io/blob/master/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.PNG)
