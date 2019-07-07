@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Сотрудник" as P {
+ ПК
+Отчёт Учёт компьютерной техники на предприятии (Комплектующие, По приказам и правилам)
+}
+hide circle
+@enduml
