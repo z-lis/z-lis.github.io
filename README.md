@@ -55,3 +55,26 @@
 диаграммы прецедентов<br>
 ![none](http://www.plantuml.com/plantuml/png/bP0z3e9058HxJx6b5bo0md0L4-tKGh67HKDZOs-CXWlu0mPtTRd2p8ryeN4hbU9LC_FjbusMyMWHhsRJNeWZCnWuNELArDIeOBaDLH0CLHy7hk6Ou0ahmGirAeK6Zgaqp-tA37vZ2kRSKV_HF7bixqb7tI8a40Zsa4Ikn1qLaowsN-QUPO66oKU2kVHI6DHuA5oOSOERn9OQ0kWY7qtcO_dwDm00)
 ***
+
+## Лабораторная работа №3
+
+### Описание хранилищ данных
+
+* DFD-диаграмма "Оформление поставок" (блок A1-03)
+
+![none](https://github.com/z-lis/z-lis.github.io/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+
+* [Диаграмма формате .rsf](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip(3).rsf)
+
+### Описание взаимодействия участников автоматизируемой деятельности
+
+* [Текст](https://github.com/z-lis/z-lis.github.io/blob/master/3-1.txt) и [рисунок](http://www.plantuml.com/plantuml/png/bL9DJi905Dxt52-iTE45N1YkCdQw8B5OO7JDJneNDJ4chFs95oX8mo0oNE5xD_BDj1OqRjnDyhx_jZioQcXkqgj8nUPwI1syOSzZb5XYYmexlaF54tp0OaDOy8nplCjvorCvZ3kaHfH5MXbrgKQ9yETot0clG4LmM91G9ZmLJOUDVubooNaW3g9Ct7jnBrDz8zndGLdnAh7cWc2fpM8bJHauwI_EasZxZDDmrMsF5vw9aXEkmmhMnvNGzm4Lw-F4ZvZJGOQB035HHcSNDA1pmYiMS3mcqMcwSHuD_3cZ6fOABAGNFp-Bxq02BKcsSt2XjOWt_IsgA0tycgvh5uTrOs73UD-HK4RQm-BGhdUhJEBViJvOUsC1IahloW-otF_Jj9gPQFf5slbR0Uo3O8LLcBF0iirx4j3Muoh_uJclbySdN72ofusy-LF-Hztak6WtwMlvHRy0)
+диаграммы последовательности<br>
+![none](http://www.plantuml.com/plantuml/png/bL9DJi905Dxt52-iTE45N1YkCdQw8B5OO7JDJneNDJ4chFs95oX8mo0oNE5xD_BDj1OqRjnDyhx_jZioQcXkqgj8nUPwI1syOSzZb5XYYmexlaF54tp0OaDOy8nplCjvorCvZ3kaHfH5MXbrgKQ9yETot0clG4LmM91G9ZmLJOUDVubooNaW3g9Ct7jnBrDz8zndGLdnAh7cWc2fpM8bJHauwI_EasZxZDDmrMsF5vw9aXEkmmhMnvNGzm4Lw-F4ZvZJGOQB035HHcSNDA1pmYiMS3mcqMcwSHuD_3cZ6fOABAGNFp-Bxq02BKcsSt2XjOWt_IsgA0tycgvh5uTrOs73UD-HK4RQm-BGhdUhJEBViJvOUsC1IahloW-otF_Jj9gPQFf5slbR0Uo3O8LLcBF0iirx4j3Muoh_uJclbySdN72ofusy-LF-Hztak6WtwMlvHRy0)
+
+### Описание участников автоматизируемой деятельности
+
+* [Текст](https://github.com/z-lis/z-lis.github.io/blob/master/3-2.txt) и [рисунок](http://www.plantuml.com/plantuml/png/bL4nJiGm4EpzYbLAfFl3VUN4KI0T5EIeq4b94A889GK518IWJo8C9b6IByp-YB45o285q5ZZsPdnxdgPRbSdszEZZTdVhD9KK6cXbx1Qo9aHELppm1rglA7bES31Ugh21AVvDxMJhu07SWr6BKAbYsAUS8FAWskCwF6AWRASxrsPtQSxOSr73bh22cMDw7dGPBoyU-Jxq8iaods4m-J1BJKliEYPoEipXHdZEfeiaGjszWGNFNWVD2tv7hN02IOoLFcXjKp-kGSJRN1liPZjusVzxnFFdR-rRfO7nsl-xGS0)
+диаграммы классов<br>
+![none](http://www.plantuml.com/plantuml/png/bL4nJiGm4EpzYbLAfFl3VUN4KI0T5EIeq4b94A889GK518IWJo8C9b6IByp-YB45o285q5ZZsPdnxdgPRbSdszEZZTdVhD9KK6cXbx1Qo9aHELppm1rglA7bES31Ugh21AVvDxMJhu07SWr6BKAbYsAUS8FAWskCwF6AWRASxrsPtQSxOSr73bh22cMDw7dGPBoyU-Jxq8iaods4m-J1BJKliEYPoEipXHdZEfeiaGjszWGNFNWVD2tv7hN02IOoLFcXjKp-kGSJRN1liPZjusVzxnFFdR-rRfO7nsl-xGS0)
+***
