@@ -1,0 +1,20 @@
+@startuml
+actor "Управленческий бухгалтер" as p
+database "Данные об устройствах" as q
+participant "Приказы и правила" as m
+participant "Отчет" as d
+actor "Руководитель" as cd
+database "БД Отчеты" as t
+p -> q : Сбор данных
+q -> p 
+p -> m : Проверка на соответствие
+m -> p
+p -> d : Создание отчета
+d -> cd
+activate cd
+cd -> m : Повторная проверка на соответствие
+m -> cd
+cd -> p : Отправка на переделывание (при необходимости)
+cd -> t : Отправка отчета
+deactivate cd
+@enduml
