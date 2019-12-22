@@ -1,0 +1,34 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Modules as "Модуль"
+
+
+class In as "Внутренний"
+class Out as "Внешний"
+
+class Registration as "Регистрация участников"
+class Commute as "Коммутировать сообщения"
+class Info as "Информация о состоянии обменов"
+
+class Formats as "Определение форматов"
+class Errors as "Обработка ошибок"
+
+
+Modules<|-- In
+Modules<|-- Out
+
+In<|-- Registration
+In<|-- Commute
+In<|-- Info
+
+Out<|-- Formats
+Out<|-- Errors
+
+hide members
+hide circle
+hide methods
+@enduml

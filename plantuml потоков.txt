@@ -1,0 +1,44 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Поток"
+
+class Input as "Входной поток"
+class Output as "Выходной поток"
+class Control as "Поток управления"
+
+class InInfo as "Информационный"
+class OutInfo as "Информационный"
+class ControlInfo as "Информационный"
+
+class Messages as "Сообщения"
+
+class Mqtt as "Протокол MQTT"
+class Norm as "Нормы, допуски и стандарты"
+
+class NormalWork as "Работа нормализована"
+class Terminate as "Аварийное завершение"
+class MessageDelivered as "Сообщение доставлено"
+
+Entity <|-- Input 
+Entity <|-- Output 
+Entity <|-- Control 
+Input <|-- InInfo  
+InInfo <|-- Messages
+Output <|-- OutInfo
+Control <|-- ControlInfo
+OutInfo<|-- NormalWork 
+OutInfo<|-- Terminate 
+OutInfo<|-- MessageDelivered
+ControlInfo<|-- Mqtt 
+ControlInfo<|-- Norm 
+
+
+
+hide members
+hide circle
+hide methods
+@enduml
